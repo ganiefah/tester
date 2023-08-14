@@ -50,13 +50,13 @@
                   </a>
                   <ul class="dropdown-menu">
                     <li class="nav-item">
-                      <router-link to="/products" class="nav-link">Womens Clothing</router-link>
+                      <router-link to="/products" class="nav-link">Women's Clothing</router-link>
                       </li>
                       <li class="nav-item">
-                        <router-link to="/products" class="nav-link">Mens Clothing</router-link>
+                        <router-link to="/products" class="nav-link">Men's Clothing</router-link>
                         </li>
                         <li class="nav-item">
-                          <router-link to="/products" class="nav-link">Kids Clothing</router-link>
+                          <router-link to="/products" class="nav-link">Kid's Clothing</router-link>
                           </li>
                           <li class="nav-item">
                             <router-link to="/products" class="dropdown-item  nav-link" >Products</router-link>
